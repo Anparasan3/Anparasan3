@@ -6,13 +6,22 @@
 <!--- 
 - 👋 Hi, I’m Anparasan, 
 --->
-- 👀 I’m interested in Fullstack web development,
-- 🌱 I’m currently learning Backend development,
-- 💞️ I’m looking to collaborate on a Backend developer.
-- 📫 How to reach me
-    1. LinkedIn   => https://www.linkedin.com/in/anparasan-t-52a954219/
-    2. email      =>  anparasantamilarasan@gmail.com
-    3. Instagram  => https://www.instagram.com/anpu_tamilan/
+
+- 🔭 I’m currently working as a Fullstack developer at [Openturf](https://www.openturf.in/)
+
+- 🌱 I’m currently learning **Backend development**
+
+- 💬 Ask me about **ReactJS and NodeJS**
+
+- 📫 How to reach me **anparasantamilarasan@gmail.com**
+
+- ⚡ Fun fact **I have a passion for solving problems and love the feeling of seeing my code come to life.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anparasan-t-52a954219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anparasan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anpu_tamilan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anparasan" height="30" width="40" /></a>
+</p>
 
 <!---
 Anparasan3/Anparasan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
