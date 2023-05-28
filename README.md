@@ -32,6 +32,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anparasan3&" alt="anparasan" /></p>
 
+<!-- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammartahir&" alt="iammartahir" /></p>
+<p align="left"> <a href="https://app.daily.dev/ammartahir"><img src="https://api.daily.dev/devcards/8bcedeccb9d049e4afe399ee89edbbcd.png?r=2oc" width="400" alt="Ammar Tahir's Dev Card"/></a></p>
+--->
+
 <!---
 Anparasan3/Anparasan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
