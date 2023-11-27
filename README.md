@@ -41,3 +41,5 @@
 Anparasan3/Anparasan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://app.daily.dev/anparasan"><img src="https://api.daily.dev/devcards/f2e27c04216844c2b26355c31a3916b0.png?r=qcs" width="400" alt="Anparasan's Dev Card"/></a>
