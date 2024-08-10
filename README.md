@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working as a Fullstack developer at [Openturf](https://www.openturf.in/)
 
+<!---
 - 🌱 I’m currently learning **Backend development**
+--->
 
 - 💬 Ask me about **ReactJS and NodeJS**
 
