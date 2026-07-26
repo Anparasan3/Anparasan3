@@ -25,7 +25,7 @@ Results-driven **full-stack developer with 5+ years of industry experience**, sp
 - 🛠️ Core focus: **Frontend UIs · API Design · TypeScript · Next.js · Cloud Deployments**
 - 💬 Ask me about **React, Next.js, Node.js, TypeScript, and System Design**
 - 📫 Reach me at **anparasantamilarasan@gmail.com**
-- 🌐 Portfolio: **[anpu-globalweb.vercel.app](https://anpu-globalweb.vercel.app/)**
+- 🌐 Portfolio: **[anparasan.vercel.app](https://anparasan.vercel.app/)**
 - ⚡ Fun fact: *I have a passion for solving problems and love the feeling of seeing my code come to life.*
 
 ---
@@ -42,10 +42,10 @@ Results-driven **full-stack developer with 5+ years of industry experience**, sp
   <a href="https://stackoverflow.com/users/20688099/anparasan-t" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://www.instagram.com/anpu_tamilan/" target="_blank">
+  <a href="https://www.instagram.com/anpu_tamil/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://anpu-globalweb.vercel.app/" target="_blank">
+  <a href="https://anparasan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
