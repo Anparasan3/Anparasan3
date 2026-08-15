@@ -150,5 +150,3 @@ Results-driven **full-stack developer with 5+ years of industry experience**, sp
   </a>
 </p>
 
-
-
