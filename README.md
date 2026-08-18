@@ -149,3 +149,4 @@ Results-driven **full-stack developer with 5+ years of industry experience**, sp
     <img src="https://api.daily.dev/devcards/f2e27c04216844c2b26355c31a3916b0.png?r=qcs" width="400" alt="Anparasan's Dev Card"/>
   </a>
 </p>
+
