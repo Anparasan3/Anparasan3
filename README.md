@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anparasan (Anpu)</h1>
+<h1 align="center">Anparasan T</h1>
 <h3 align="center">Full-Stack Developer · Tamil Nadu, India · Open to Remote Work</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anparasan3&label=Profile%20views&color=0e75b6&style=flat" alt="Anparasan3" />
+  <img src="https://komarev.com/ghpvc/?username=Anparasan3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/Anparasan3?tab=followers">
-    <img src="https://img.shields.io/github/followers/Anparasan3?label=Followers&style=flat&color=0e75b6" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Anparasan3?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
   </a>
 </p>
 
@@ -36,10 +36,10 @@ Results-driven **full-stack developer with 5+ years of industry experience**, sp
   <a href="https://www.linkedin.com/in/anparasan-t-52a954219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Anparasan3" target="_blank">
+  <a href="https://github.com/Anparasan3">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://stackoverflow.com/users/20688099/anparasan-t" target="_blank">
+  <a href="https://stackoverflow.com/users/20688099/anparasan-t">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://www.instagram.com/anpu_tamil/" target="_blank">
@@ -52,101 +52,131 @@ Results-driven **full-stack developer with 5+ years of industry experience**, sp
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 🔤 Languages
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+Results-driven **full-stack developer with 5+ years of experience** building fast, accessible web applications with clean architecture and strong developer experience — across startup MVPs and enterprise-scale platforms.
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solid.js-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white" />
-</p>
-
-### 🔐 Security & Auth
-<p>
-  <img src="https://img.shields.io/badge/OAuth%202.0-4285F4?style=for-the-badge&logo=oauth&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-DC143C?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
-</p>
-
-### 🧪 Testing
-<p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supertest-333333?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+- 🔭 Currently a **Fullstack Developer at [MKS Vision](https://www.mksvision.com/)**
+- 🛠️ Core focus: **React/Next.js frontends · Node.js APIs · TypeScript · Cloud deployments**
+<!-- - 🤖 Building AI-assisted developer tooling — see [`jira-autofix`](https://github.com/Anparasan3/jira-autofix) below -->
+- 📫 Reach me at **anparasantamilarasan@gmail.com**
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anparasan3&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr><td colspan="8"><strong>Languages</strong></td></tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br>Python</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" /><br>HTML5</td>
+  </tr>
+  <tr><td colspan="8"><strong>Frontend</strong></td></tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br>React</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /><br>Next.js</td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/remix" width="40" height="40" alt="Remix" /><br>Remix</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=solidjs" width="40" height="40" alt="Solid.js" /><br>Solid.js</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" /><br>Redux</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS" /><br>Tailwind</td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/shadcnui" width="40" height="40" alt="shadcn/ui" /><br>shadcn/ui</td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/antdesign" width="40" height="40" alt="Ant Design" /><br>Ant Design</td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mui" width="40" height="40" alt="Material UI" /><br>Material UI</td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/chakraui" width="40" height="40" alt="Chakra UI" /><br>Chakra UI</td>
+  </tr>
+  <tr><td colspan="8"><strong>Backend</strong></td></tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>Node.js</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=bun" width="40" height="40" alt="Bun" /><br>Bun</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" /><br>Express.js</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" /><br>GraphQL</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="REST APIs" /><br>REST APIs</td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/sequelize" width="40" height="40" alt="Sequelize" /><br>Sequelize</td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/jsonwebtokens" width="40" height="40" alt="JWT" /><br>JWT</td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/keycloak" width="40" height="40" alt="Keycloak" /><br>Keycloak</td>
+  </tr>
+  <tr><td colspan="8"><strong>Databases</strong></td></tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /><br>MySQL</td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/mariadb" width="40" height="40" alt="MariaDB" /><br>MariaDB</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>MongoDB</td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/clickhouse" width="40" height="40" alt="ClickHouse" /><br>ClickHouse</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" /><br>Redis</td>
+  </tr>
+  <tr><td colspan="8"><strong>Cloud & DevOps</strong></td></tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /><br>Docker</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" /><br>Kubernetes</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /><br>AWS</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" /><br>Azure</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" /><br>Vercel</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" /><br>Nginx</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions" /><br>GH Actions</td>
+  </tr>
+  <tr><td colspan="8"><strong>Testing</strong></td></tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=jest" width="40" height="40" alt="Jest" /><br>Jest</td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/testinglibrary" width="40" height="40" alt="Testing Library" /><br>RTL</td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/mocha" width="40" height="40" alt="Mocha" /><br>Mocha</td>
+  </tr>
+  <tr><td colspan="8"><strong>Tools & AI</strong></td></tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>Git</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /><br>VS Code</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" /><br>npm</td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Claude" /><br>Claude</td>
+  </tr>
+</table>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anparasan3&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anparasan3" alt="GitHub Streak" />
-</p>
+<sub>Also in the toolbox: Zustand, OAuth 2.0, Playwright, Supertest, Microservices — no icon set covers them cleanly, so they're skipped from the grid above.</sub>
 
 ---
+
+## Featured Projects
+
+<!-- **[jira-autofix](https://github.com/Anparasan3/jira-autofix)** · [![npm](https://img.shields.io/npm/v/jira-autofix?style=flat-square)](https://www.npmjs.com/package/jira-autofix)
+Fetches open Jira issues, has Claude read the target repo's context (`CLAUDE.md`, `AGENTS.md`, source tree, entry points) to write a minimal fix, and opens a GitHub PR — works against any project via env vars. Published to npm; closes the manual gap between ticket triage and a shippable fix. **TypeScript · Jira API · GitHub API · Claude** -->
+
+**[route-links](https://github.com/Anparasan3/route-links)** · [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=anparasan.routelinks)
+A VS Code extension that makes route file paths clickable in React Router v7+ config files. VS Code's TS server only supports go-to-definition on real `import` statements, but v7 route configs reference modules as plain strings — this closes that navigation gap. **TypeScript · VS Code Extension API · React Router v7**
+
+<!-- **[gh-actions](https://github.com/Anparasan3/gh-actions)**
+A shared library of reusable GitHub Actions for Bun/Node projects: one composite action for CI (install/lint/test/build), semver release automation, Dependabot bootstrapping, and a fully toggleable PR-checks reusable workflow (Jira link enforcement, coverage comments, deploy + healthcheck). Version-pinned via git tags so upstream changes don't silently ripple into every consuming repo. **GitHub Actions · Bun · YAML** -->
+
+**[github-file-storage](https://github.com/Anparasan3/github-file-storage)** · [![npm](https://img.shields.io/npm/v/github-file-storage?style=flat-square)](https://www.npmjs.com/package/github-file-storage)
+A lightweight library that stores files in a GitHub repository via the GitHub API, committing each upload. Gives small apps and prototypes a zero-infra file storage backend without provisioning S3 or blob storage. **TypeScript · GitHub REST API**
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://app.daily.dev/anparasan">
-    <img src="https://api.daily.dev/devcards/f2e27c04216844c2b26355c31a3916b0.png?r=qcs" width="400" alt="Anparasan's Dev Card"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Anparasan3&show_icons=true&locale=en&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Anparasan3&show_icons=true&locale=en&theme=default&hide_border=true" alt="Anparasan3's GitHub stats" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anparasan3&layout=compact&locale=en&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anparasan3&layout=compact&locale=en&theme=default&hide_border=true" alt="Anparasan3's top languages" width="38%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Anparasan3&theme=dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anparasan3&theme=default&hide_border=true" alt="Anparasan3's GitHub streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Anparasan3&theme=react-dark&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anparasan3&theme=minimal&hide_border=true" alt="Anparasan3's contribution activity" width="90%" />
+  </picture>
 </p>
 
