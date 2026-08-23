@@ -9,31 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anparasan3&theme=flat&column=7" alt="Anparasan3 trophies" />
-  </a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-Results-driven **full-stack developer with 5+ years of industry experience**, specializing in building fast, accessible web applications with a focus on clean architecture and developer experience. I work across startup MVPs and enterprise-scale platforms.
-
-- 🔭 Currently working as a **Fullstack Developer at [Openturf](https://www.openturf.in/)**
-- 🌍 Based in **Tamil Nadu, India** — open to **remote-first** roles
-- 🛠️ Core focus: **Frontend UIs · API Design · TypeScript · Next.js · Cloud Deployments**
-- 💬 Ask me about **React, Next.js, Node.js, TypeScript, and System Design**
-- 📫 Reach me at **anparasantamilarasan@gmail.com**
-- 🌐 Portfolio: **[anparasan.vercel.app](https://anparasan.vercel.app/)**
-- ⚡ Fun fact: *I have a passion for solving problems and love the feeling of seeing my code come to life.*
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anparasan-t-52a954219/" target="_blank">
+  <a href="https://www.linkedin.com/in/anparasan-t-52a954219/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Anparasan3">
@@ -42,10 +18,7 @@ Results-driven **full-stack developer with 5+ years of industry experience**, sp
   <a href="https://stackoverflow.com/users/20688099/anparasan-t">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://www.instagram.com/anpu_tamil/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://anparasan.vercel.app/" target="_blank">
+  <a href="https://anparasan.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -54,12 +27,12 @@ Results-driven **full-stack developer with 5+ years of industry experience**, sp
 
 ## About Me
 
-Results-driven **full-stack developer with 5+ years of experience** building fast, accessible web applications with clean architecture and strong developer experience — across startup MVPs and enterprise-scale platforms.
+**Full-stack developer with 5+ years of experience** shipping fast, accessible web apps with clean architecture — from startup MVPs to enterprise-scale platforms.
 
-- 🔭 Currently a **Fullstack Developer at [MKS Vision](https://www.mksvision.com/)**
-- 🛠️ Core focus: **React/Next.js frontends · Node.js APIs · TypeScript · Cloud deployments**
+- 🔭 **Fullstack Developer at [MKS Vision](https://www.mksvision.com/)**
+- 🛠️ Focus: **React/Next.js · Node.js APIs · TypeScript · Cloud deployments**
 <!-- - 🤖 Building AI-assisted developer tooling — see [`jira-autofix`](https://github.com/Anparasan3/jira-autofix) below -->
-- 📫 Reach me at **anparasantamilarasan@gmail.com**
+- 📫 **anparasantamilarasan@gmail.com**
 
 ---
 
